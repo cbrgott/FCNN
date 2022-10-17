@@ -13,7 +13,7 @@ H1_act = hidden layer (with activation), (h,1)
 
 Y_act = output layer (with activation), (m,1)
 
-B1 = Bias of hidden layer, (h1,1)
+B1 = Bias of hidden layer, (h,1)
 
 B2 = Bias of output layer, (m,1)
 

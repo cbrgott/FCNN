@@ -63,6 +63,6 @@ B1 = B1-learning_rate.dEB1
 
 B2 = B2-learning_rate.dEB2
 
-W1 = B1-learning_rate.dEW1
+W1 = W1-learning_rate.dEW1
 
-W2 = B1-learning_rate.dEW2
+W2 = W2-learning_rate.dEW2

@@ -57,7 +57,7 @@ dEW1 = (dE/H1_preact)(dH1_preact/dW1)=dEH1_preact.X1
 
 dEB1 = (dE/H1_preact)(dH1_preact/dB1) = dEH1_preact.1 = dEH1_preact
 
-############### GRADIENTE DESCENT ########
+############### GRADIENT DESCENT ########
 
 B1 = B1-learning_rate.dEB1
 

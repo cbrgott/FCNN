@@ -1,6 +1,7 @@
 # FCNN
 Full connected neural network with plain linear algebra:
 Forward propagation :
+
 ####### PARAMETERS #############
 X = Input layer
 H1_preact = hidden layer (with no activation)

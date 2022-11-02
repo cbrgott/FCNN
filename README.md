@@ -43,7 +43,7 @@ dEY_act = dE/dEY_act
 
 dEY_preact = (dE/dY_act)(dY_act/dY_preact)
 
-dEW2 = (dE/dY_preact)(dY_preact/dW2) = dEY_preact.H1
+dEW2 = (dE/dY_preact)(dY_preact/dW2) = dEY_preact.H1_act
 
 dEB2 = (dE/dY_preact)(dY_preact/dB2) = dEY_preact.1 = dEY_preact
 
